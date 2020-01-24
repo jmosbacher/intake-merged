@@ -16,8 +16,8 @@ intake-merged
 
 
 
-Intake plugin for a source twhos output is produced by merging multiple sources in   the catalog it belongs to.
-
+Intake plugin for a source whos output is produced by merging two existing sources in the catalog it belongs to.
+This is very much a work in progress.
 
 * Free software: MIT license
 * Documentation: https://intake-merged.readthedocs.io.
