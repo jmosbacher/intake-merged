@@ -5,7 +5,7 @@ except ImportError:
     import urlparse
 
 from intake.source import base
-from .. import __version__
+from . import __version__
 
 
 class MergedSource(base.DataSource):
